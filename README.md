@@ -1,4 +1,4 @@
-# OpenSea Whitelabel Marketplace
+# blueocean Marketplace | a fork of opensea
 
 Embed a fully functional OpenSea marketplace on your own website in 3 quick steps! [Example marketplace](https://opensea-whitelabel.herokuapp.com/)
 
