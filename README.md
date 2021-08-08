@@ -2,9 +2,6 @@
 
 Embed a fully functional OpenSea marketplace on your own website in 3 quick steps! [Example marketplace](https://opensea-whitelabel.herokuapp.com/)
 
-<img src="" width="600" />
-<img src="" width="300" />
-
 # Setup
 
 ### Installation
