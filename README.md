@@ -1,3 +1,3 @@
-# blueocean Marketplace | a fork of opensea
+# blueocean Marketplace | a nft marketplace 
 
 
